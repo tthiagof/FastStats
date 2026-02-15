@@ -1,6 +1,6 @@
 #  PyDataLens
 
-![Python](https://upload.wikimedia.org)
+![Python](https://www.python.org)
 
 Uma ferramenta poderosa e intuitiva de análise de dados que transforma arquivos brutos em dashboards interativos em segundos. 
 
