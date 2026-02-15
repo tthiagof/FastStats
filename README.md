@@ -1,6 +1,4 @@
-#  PyDataLens
-
-![Python](https://www.python.org)
+#  FastStats
 
 Uma ferramenta poderosa e intuitiva de análise de dados que transforma arquivos brutos em dashboards interativos em segundos. 
 
