@@ -1,8 +1,6 @@
 #  PyDataLens
 
-![Python](https://img.shields.io)
-![Streamlit](https://img.shields.io)
-![Pandas](https://img.shields.io)
+![Python](https://upload.wikimedia.org)
 
 Uma ferramenta poderosa e intuitiva de análise de dados que transforma arquivos brutos em dashboards interativos em segundos. 
 
